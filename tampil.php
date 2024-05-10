@@ -390,7 +390,7 @@ family=Rubik+Gemstones&family=Titan+One&family=Trirong:ital,wght@0,100;0,200;0,3
             <button class="dropbtn">Konten</button>
             <div class="sub-dropdown-content">
             <a href="?u=budaya"><span style="color: black;">Budaya</span></a><br>
-              <a href="?u=Bangunan"><span style="color: black;">Bangunan</span></a>
+              <a href="?u=produk"><span style="color: black;">Bangunan</span></a>
             </div>
           </div>
         </div>

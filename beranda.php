@@ -129,7 +129,7 @@
     .inimodegelap{
     margin-left: 83%;
     position: fixed;
-    margin-top: 130%;
+    margin-top: 120%;
   
   }
   .tombol3 {
@@ -167,7 +167,7 @@
 
     video {
       margin-top: -50px;
-      width: 180px;
+      width: 200px;
       height: 400px;
     }
 
@@ -189,6 +189,9 @@
     img {
       width: 75px;
       height: 75px;
+    }
+    .inicol2{
+      display: none;
     }
   }
 
