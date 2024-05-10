@@ -141,6 +141,9 @@
         width: 50px;
         height: 75px;
       }
+      .inicol2 {
+        display: none;
+      }
     }
 
 
