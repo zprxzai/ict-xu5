@@ -97,7 +97,7 @@
       .inimodegelap{
     margin-left: 77%;
     position: fixed;
-    margin-top: 100%;
+    margin-top: 91%;
   
   }
   .tombol3 {
@@ -158,6 +158,9 @@
       img {
         width: 75px;
         height: 75px;
+      }
+      .inicol2{
+        display: none;
       }
     }
 
