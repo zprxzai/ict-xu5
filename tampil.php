@@ -339,6 +339,7 @@ family=Rubik+Gemstones&family=Titan+One&family=Trirong:ital,wght@0,100;0,200;0,3
               <a href="#"><span style="color: black;">- Bahtiar</span></a><br>
               <a href="#"><span style="color: black;">- Syakira</span></a><br>
               <a href="#"><span style="color: black;">- Gerald</span></a><br>
+              <a href="#"><span style="color: black;">- Julian</span></a><br>
             </div>
           </div>
           <div class="sub-dropdown">
@@ -384,6 +385,7 @@ family=Rubik+Gemstones&family=Titan+One&family=Trirong:ital,wght@0,100;0,200;0,3
               <a href="#"><span style="color: black;">- Bahtiar</span></a><br>
               <a href="#"><span style="color: black;">- Syakira</span></a><br>
               <a href="#"><span style="color: black;">- Gerald</span></a><br>
+              <a href="#"><span style="color: black;">- Julian</span></a><br>
             </div>
           </div>
           <div class="sub-dropdown">
