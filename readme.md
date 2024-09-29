@@ -50,7 +50,7 @@ selain itu website ini yang membuatnya cukup bagus adalah adanya konten yang ber
 [Bootstrap]:  <https://getbootstrap.com/>
 [ModelViewer]: <https://modelviewer.dev/>
 [AOS]: <https://michalsnik.github.io/aos/>
-[Xampp] <https://www.apachefriends.org/download.html>
+[Xampp]: https://www.apachefriends.org/download.html
 
  
 
