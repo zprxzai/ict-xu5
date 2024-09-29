@@ -39,7 +39,7 @@ selain itu website ini yang membuatnya cukup bagus adalah adanya konten yang ber
 - [Javascript] - membuat website lebih responsif dan lebih menarik 
 - [ModelViewer] - libarry  untuk menampilkan model 3D yang ada di website
 - [AOS] - libarry yang membuat efek mengalir  ketika elemen baru muncul di layar
-- [xampp] -  sebagai server untuk menjalankan website ini
+- [Xampp] -  sebagai server untuk menjalankan website ini
 
 
 
