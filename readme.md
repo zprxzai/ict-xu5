@@ -3,7 +3,7 @@
 ### Ringkasan
 <p>Website ini merupakan website hasil dari perlombaan dalam ajang ICT perkelas yang diselenggarakan oleh SMA PLUS PGRI CIBINONG yang pesertanya diikuti oleh seluruh kelas 10 saja.</p>
 <p>Website ini berisi konten tentang kebudayaan dan sejarah yang ada di kota jakarta. 
-selain itu website ini yang membuatnya cukup bagus adalah adanya konten yang berisi model 3D yang berbentuk bangunan bersejarah di jakarta. sehingga kami memenangkan lomba tersebut </p>
+selain itu website ini yang membuatnya cukup bagus adalah adanya konten yang berisi model 3D yang berbentuk bangunan bersejarah di jakarta. sehingga kami dapat memenangkan lomba tersebut. </p>
 <img src="gambar_readme/zai.jpg" width="900px" height="500px">
 
 ## Tampilan Awal
@@ -50,7 +50,7 @@ selain itu website ini yang membuatnya cukup bagus adalah adanya konten yang ber
 [Bootstrap]:  <https://getbootstrap.com/>
 [ModelViewer]: <https://modelviewer.dev/>
 [AOS]: <https://michalsnik.github.io/aos/>
-[Xampp] - <https://www.apachefriends.org/download.html>
+[Xampp] <https://www.apachefriends.org/download.html>
 
  
 
