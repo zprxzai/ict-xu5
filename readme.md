@@ -6,6 +6,8 @@
 selain itu website ini yang membuatnya cukup bagus adalah adanya konten yang berisi model 3D yang berbentuk bangunan bersejarah di jakarta. sehingga kami dapat memenangkan lomba tersebut. </p>
 <img src="gambar_readme/zai.jpg" width="900px" height="500px">
 
+Link : <https://ictxu5.000webhostapp.com/>
+
 ## Tampilan Awal
 <img src="gambar_readme/depan.png" width="900px" height="500px">
 
